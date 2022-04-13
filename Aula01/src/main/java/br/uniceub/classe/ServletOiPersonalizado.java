@@ -12,8 +12,8 @@ import javax.servlet.http.HttpServletResponse;
 /**
  * Servlet implementation class ServletOlaPersonalizado
  */
-@WebServlet("/ServletOlaPersonalizado")
-public class ServletOlaPersonalizado extends HttpServlet {
+@WebServlet("/ServletOiPersonalizado")
+public class ServletOiPersonalizado extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
 	@Override
